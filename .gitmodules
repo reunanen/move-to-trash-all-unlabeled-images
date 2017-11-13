@@ -1,0 +1,6 @@
+[submodule "cpp-move-file-to-trash"]
+	path = cpp-move-file-to-trash
+	url = https://github.com/reunanen/cpp-move-file-to-trash
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/reunanen/dlib
